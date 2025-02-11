@@ -1,0 +1,90 @@
+
+Icon4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as1
+  rotate: false
+  xy: 367, 165
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 465, 165
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as3
+  rotate: false
+  xy: 563, 165
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as4
+  rotate: false
+  xy: 661, 165
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as5
+  rotate: false
+  xy: 759, 165
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as6
+  rotate: false
+  xy: 857, 165
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as7
+  rotate: false
+  xy: 132, 66
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+chim
+  rotate: false
+  xy: 2, 132
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+chim2
+  rotate: true
+  xy: 2, 2
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+set
+  rotate: true
+  xy: 261, 154
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+set2
+  rotate: true
+  xy: 132, 157
+  size: 97, 127
+  orig: 97, 127
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 955, 212
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1

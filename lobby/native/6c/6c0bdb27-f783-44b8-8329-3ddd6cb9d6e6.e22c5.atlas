@@ -1,0 +1,447 @@
+
+lobbytet_go.png
+size: 1592,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_Bloom_00
+  rotate: false
+  xy: 1354, 63
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_01
+  rotate: false
+  xy: 149, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_02
+  rotate: false
+  xy: 1465, 269
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_03
+  rotate: false
+  xy: 1540, 345
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_04
+  rotate: false
+  xy: 201, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_05
+  rotate: false
+  xy: 253, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_06
+  rotate: false
+  xy: 305, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_07
+  rotate: false
+  xy: 357, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_08
+  rotate: false
+  xy: 409, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_09
+  rotate: false
+  xy: 461, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_10
+  rotate: false
+  xy: 513, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_11
+  rotate: false
+  xy: 565, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_12
+  rotate: false
+  xy: 617, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_13
+  rotate: false
+  xy: 669, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_14
+  rotate: false
+  xy: 721, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_15
+  rotate: false
+  xy: 773, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_16
+  rotate: false
+  xy: 825, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_17
+  rotate: false
+  xy: 877, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_18
+  rotate: false
+  xy: 929, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_19
+  rotate: false
+  xy: 981, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_20
+  rotate: false
+  xy: 1033, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_21
+  rotate: false
+  xy: 1085, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_22
+  rotate: false
+  xy: 1137, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_23
+  rotate: false
+  xy: 1189, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_24
+  rotate: false
+  xy: 1241, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_25
+  rotate: false
+  xy: 1293, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_26
+  rotate: false
+  xy: 1418, 136
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_27
+  rotate: false
+  xy: 1540, 293
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_28
+  rotate: false
+  xy: 1418, 84
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_29
+  rotate: false
+  xy: 1450, 216
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_30
+  rotate: false
+  xy: 1502, 217
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_31
+  rotate: false
+  xy: 1345, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_32
+  rotate: false
+  xy: 1406, 32
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_33
+  rotate: false
+  xy: 1458, 32
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_34
+  rotate: false
+  xy: 1470, 164
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_35
+  rotate: false
+  xy: 1470, 112
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_36
+  rotate: false
+  xy: 1522, 165
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_37
+  rotate: false
+  xy: 1522, 113
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_38
+  rotate: false
+  xy: 1522, 61
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX_Bloom_39
+  rotate: false
+  xy: 1510, 9
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Firework_00
+  rotate: false
+  xy: 2, 228
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_02
+  rotate: false
+  xy: 2, 59
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_04
+  rotate: false
+  xy: 171, 228
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_06
+  rotate: false
+  xy: 171, 59
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_08
+  rotate: false
+  xy: 340, 228
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_10
+  rotate: false
+  xy: 340, 59
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_12
+  rotate: false
+  xy: 509, 228
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_14
+  rotate: false
+  xy: 509, 59
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_16
+  rotate: false
+  xy: 678, 228
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_18
+  rotate: false
+  xy: 678, 59
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_20
+  rotate: false
+  xy: 847, 228
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_22
+  rotate: false
+  xy: 847, 59
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_24
+  rotate: false
+  xy: 1016, 228
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_26
+  rotate: false
+  xy: 1016, 59
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_28
+  rotate: false
+  xy: 1185, 228
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Firework_30
+  rotate: false
+  xy: 1185, 59
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Flower_canh
+  rotate: true
+  xy: 1397, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Flower_nhuy
+  rotate: false
+  xy: 1517, 302
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+L_flower1
+  rotate: true
+  xy: 1354, 115
+  size: 151, 62
+  orig: 151, 62
+  offset: 0, 0
+  index: -1
+R_flower1
+  rotate: false
+  xy: 1465, 321
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+R_flower2
+  rotate: false
+  xy: 2, 3
+  size: 145, 54
+  orig: 145, 54
+  offset: 0, 0
+  index: -1
+phao
+  rotate: false
+  xy: 1418, 188
+  size: 30, 78
+  orig: 30, 78
+  offset: 0, 0
+  index: -1
+tialua
+  rotate: false
+  xy: 1354, 268
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+icongame tx live go88.png
+size: 688,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3Khung-jp-big-copy-11
+  rotate: false
+  xy: 399, 54
+  size: 275, 176
+  orig: 275, 176
+  offset: 0, 0
+  index: -1
+3bg
+  rotate: false
+  xy: 311, 232
+  size: 307, 450
+  orig: 313, 456
+  offset: 3, 3
+  index: -1
+3body
+  rotate: true
+  xy: 2, 13
+  size: 216, 395
+  orig: 216, 395
+  offset: 0, 0
+  index: -1
+3live
+  rotate: true
+  xy: 620, 575
+  size: 65, 27
+  orig: 85, 36
+  offset: 10, 4
+  index: -1
+3tai
+  rotate: false
+  xy: 620, 642
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+3xiu
+  rotate: false
+  xy: 399, 13
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+3xx
+  rotate: false
+  xy: 466, 19
+  size: 46, 33
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Khung chung
+  rotate: false
+  xy: 2, 231
+  size: 307, 451
+  orig: 313, 456
+  offset: 3, 3
+  index: -1

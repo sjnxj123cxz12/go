@@ -1,0 +1,90 @@
+
+Go_Noel_2021.png
+size: 1583,1581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball_1
+  rotate: false
+  xy: 27, 1195
+  size: 31, 112
+  orig: 31, 112
+  offset: 0, 0
+  index: -1
+Ball_2
+  rotate: false
+  xy: 170, 1241
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+Ball_3
+  rotate: false
+  xy: 60, 1219
+  size: 33, 88
+  orig: 33, 88
+  offset: 0, 0
+  index: -1
+Ball_4
+  rotate: false
+  xy: 2, 1191
+  size: 23, 116
+  orig: 23, 116
+  offset: 0, 0
+  index: -1
+BongTuyet
+  rotate: false
+  xy: 201, 1275
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Header_1
+  rotate: false
+  xy: 2, 1513
+  size: 1579, 66
+  orig: 1579, 116
+  offset: 0, 50
+  index: -1
+Header_2
+  rotate: false
+  xy: 2, 1445
+  size: 1579, 66
+  orig: 1579, 116
+  offset: 0, 50
+  index: -1
+Header_3
+  rotate: false
+  xy: 2, 1377
+  size: 1579, 66
+  orig: 1579, 116
+  offset: 0, 50
+  index: -1
+Header_4
+  rotate: false
+  xy: 2, 1309
+  size: 1579, 66
+  orig: 1579, 116
+  offset: 0, 50
+  index: -1
+NgocLua
+  rotate: false
+  xy: 2, 1154
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+Tuyet
+  rotate: false
+  xy: 60, 1204
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Đen
+  rotate: false
+  xy: 95, 1234
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1

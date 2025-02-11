@@ -1,0 +1,62 @@
+
+Go_Noel_2021.png
+size: 157,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball_1
+  rotate: true
+  xy: 2, 99
+  size: 31, 112
+  orig: 31, 112
+  offset: 0, 0
+  index: -1
+Ball_2
+  rotate: true
+  xy: 77, 36
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+Ball_3
+  rotate: false
+  xy: 120, 67
+  size: 33, 88
+  orig: 33, 88
+  offset: 0, 0
+  index: -1
+Ball_4
+  rotate: true
+  xy: 2, 132
+  size: 23, 116
+  orig: 23, 116
+  offset: 0, 0
+  index: -1
+BongTuyet
+  rotate: false
+  xy: 77, 2
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+NgocLua
+  rotate: true
+  xy: 77, 80
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+Tuyet
+  rotate: false
+  xy: 116, 21
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Đen
+  rotate: false
+  xy: 2, 24
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1

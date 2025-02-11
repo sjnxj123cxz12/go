@@ -1,0 +1,237 @@
+
+linhchauty.png
+size: 1900,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flower_canh
+  rotate: true
+  xy: 405, 15
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+LCT_BG2
+  rotate: false
+  xy: 1300, 2
+  size: 100, 152
+  orig: 100, 152
+  offset: 0, 0
+  index: -1
+LCT_BG2_decor1
+  rotate: true
+  xy: 484, 3
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+LCT_BG2_decor2
+  rotate: false
+  xy: 1788, 158
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+LCT_BG2_decor3
+  rotate: false
+  xy: 431, 18
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+LCT_BG2_decor4
+  rotate: true
+  xy: 2, 11
+  size: 357, 166
+  orig: 357, 166
+  offset: 0, 0
+  index: -1
+LCT_FX_shine
+  rotate: false
+  xy: 1740, 210
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+LCT_Frame1
+  rotate: true
+  xy: 927, 91
+  size: 277, 130
+  orig: 277, 130
+  offset: 0, 0
+  index: -1
+LCT_Frame4
+  rotate: true
+  xy: 484, 75
+  size: 293, 441
+  orig: 293, 441
+  offset: 0, 0
+  index: -1
+LCT_Ground
+  rotate: true
+  xy: 1402, 4
+  size: 150, 96
+  orig: 150, 96
+  offset: 0, 0
+  index: -1
+LCT_Pearl
+  rotate: false
+  xy: 1198, 9
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+LCT_Pearl_decor2
+  rotate: false
+  xy: 219, 8
+  size: 93, 35
+  orig: 93, 35
+  offset: 0, 0
+  index: -1
+LCT_Pearl_light1
+  rotate: true
+  xy: 170, 45
+  size: 323, 312
+  orig: 323, 312
+  offset: 0, 0
+  index: -1
+LCT_Pearl_light2
+  rotate: false
+  xy: 1059, 112
+  size: 204, 256
+  orig: 204, 256
+  offset: 0, 0
+  index: -1
+LCT_Snake_Body1
+  rotate: true
+  xy: 1443, 157
+  size: 211, 163
+  orig: 211, 163
+  offset: 0, 0
+  index: -1
+LCT_Snake_Body2
+  rotate: false
+  xy: 1265, 156
+  size: 176, 212
+  orig: 176, 212
+  offset: 0, 0
+  index: -1
+LCT_Snake_Body3
+  rotate: true
+  xy: 869, 17
+  size: 56, 110
+  orig: 56, 110
+  offset: 0, 0
+  index: -1
+LCT_Snake_Eyefill
+  rotate: false
+  xy: 1788, 112
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+LCT_Snake_Hat
+  rotate: true
+  xy: 1097, 8
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1
+LCT_Snake_Hat_L
+  rotate: false
+  xy: 170, 6
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+LCT_Snake_Hat_R
+  rotate: true
+  xy: 712, 10
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+LCT_Snake_Head
+  rotate: false
+  xy: 981, 3
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+LCT_Snake_L_eye
+  rotate: false
+  xy: 377, 15
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+LCT_Snake_R_eye
+  rotate: false
+  xy: 314, 11
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+LCT_Snake_Tounge
+  rotate: true
+  xy: 347, 12
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+LCT_Snake_eye_close
+  rotate: true
+  xy: 1788, 31
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+LCT_Text1
+  rotate: true
+  xy: 1657, 5
+  size: 179, 129
+  orig: 179, 129
+  offset: 0, 0
+  index: -1
+LCT_Text1_glow1
+  rotate: true
+  xy: 1608, 186
+  size: 182, 130
+  orig: 182, 130
+  offset: 0, 0
+  index: -1
+LCT_Text2
+  rotate: true
+  xy: 605, 10
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+LCT_Text2_glow1
+  rotate: true
+  xy: 761, 13
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+LCT_Text2_glow2
+  rotate: true
+  xy: 813, 15
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+LCT_Text_Cloud1
+  rotate: true
+  xy: 1834, 66
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+LCT_Text_Cloud2
+  rotate: false
+  xy: 1500, 2
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
