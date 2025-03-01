@@ -1,0 +1,356 @@
+
+icon lobby 2.png
+size: 1887,919
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_Break
+  rotate: false
+  xy: 1775, 687
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FX_Glow
+  rotate: false
+  xy: 1715, 557
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FX_Ring1
+  rotate: false
+  xy: 1775, 455
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FX_Ring2
+  rotate: false
+  xy: 1775, 353
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FX_White
+  rotate: false
+  xy: 1771, 37
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Player_00
+  rotate: true
+  xy: 705, 537
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_01
+  rotate: false
+  xy: 776, 717
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_02
+  rotate: false
+  xy: 803, 335
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_03
+  rotate: true
+  xy: 803, 173
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_04
+  rotate: true
+  xy: 963, 11
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_05
+  rotate: true
+  xy: 907, 555
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_06
+  rotate: false
+  xy: 938, 717
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_07
+  rotate: false
+  xy: 1100, 717
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_08
+  rotate: false
+  xy: 965, 353
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_09
+  rotate: true
+  xy: 1109, 555
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_10
+  rotate: false
+  xy: 1262, 717
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_11
+  rotate: true
+  xy: 1005, 191
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_12
+  rotate: false
+  xy: 1127, 353
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_13
+  rotate: true
+  xy: 1165, 29
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_14
+  rotate: true
+  xy: 1207, 191
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_15
+  rotate: false
+  xy: 1289, 353
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_16
+  rotate: true
+  xy: 1311, 555
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_17
+  rotate: false
+  xy: 1424, 717
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_18
+  rotate: true
+  xy: 1367, 29
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_19
+  rotate: true
+  xy: 1409, 191
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_20
+  rotate: false
+  xy: 1451, 353
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_21
+  rotate: true
+  xy: 1513, 555
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_22
+  rotate: false
+  xy: 1586, 717
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_23
+  rotate: true
+  xy: 1569, 29
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_24
+  rotate: true
+  xy: 1611, 191
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Player_25
+  rotate: false
+  xy: 1613, 353
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+Volta_BG1
+  rotate: false
+  xy: 445, 515
+  size: 258, 402
+  orig: 258, 402
+  offset: 0, 0
+  index: -1
+Volta_BG2
+  rotate: true
+  xy: 2, 342
+  size: 575, 441
+  orig: 575, 441
+  offset: 0, 0
+  index: -1
+Volta_FX_light
+  rotate: true
+  xy: 705, 699
+  size: 218, 69
+  orig: 218, 69
+  offset: 0, 0
+  index: -1
+Volta_Frame1_a
+  rotate: false
+  xy: 704, 27
+  size: 257, 127
+  orig: 257, 127
+  offset: 0, 0
+  index: -1
+Volta_Frame1_b
+  rotate: false
+  xy: 445, 5
+  size: 257, 149
+  orig: 257, 149
+  offset: 0, 0
+  index: -1
+Volta_Frame4
+  rotate: true
+  xy: 2, 47
+  size: 293, 441
+  orig: 293, 441
+  offset: 0, 0
+  index: -1
+Volta_ball1
+  rotate: false
+  xy: 1771, 89
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Volta_ball2
+  rotate: true
+  xy: 1715, 659
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+Volta_player_static
+  rotate: false
+  xy: 445, 156
+  size: 356, 357
+  orig: 356, 357
+  offset: 0, 0
+  index: -1
+Volta_text1
+  rotate: false
+  xy: 1748, 789
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Volta_text1_glow
+  rotate: false
+  xy: 1823, 37
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Volta_text2
+  rotate: true
+  xy: 1748, 850
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+Volta_text2_glow
+  rotate: false
+  xy: 1813, 307
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Volta_text3
+  rotate: true
+  xy: 1817, 632
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+Volta_text3_glow
+  rotate: false
+  xy: 1817, 576
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Volta_text4
+  rotate: false
+  xy: 1813, 858
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+Volta_text4_glow
+  rotate: false
+  xy: 2, 2
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Volta_text5
+  rotate: false
+  xy: 1813, 797
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+Volta_text5_glow
+  rotate: false
+  xy: 1813, 261
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
